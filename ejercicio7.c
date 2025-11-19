@@ -1,4 +1,4 @@
-/*DYANA MONSERRAT RIVERA MONTES DE OCA
+/*DAYANA MONSERRAT RIVERA MONTES DE OCA
 laboratorio 11 Programa 7*/
 
 #include <stdio.h>
